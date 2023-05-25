@@ -36,11 +36,11 @@
 <br>
 
 <div align="center">
-<a href="https://linkedin.com/in/jeremy-desloovere/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn Logo"></a>
-<a href="https://twitter.com/JeremDesloovere"><img src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Logo"></a>
-<a href="https://Jeremy-Desloovere.github.io/"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="chrome Logo"></a>
+<a href="https://linkedin.com/in/audric-moroz/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn Logo"></a>
+<a href="https://twitter.com/AudricMoroz"><img src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Logo"></a>
+<a href="https://Audric-Moroz.github.io/"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="chrome Logo"></a>
 </div>
 
 <br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Jeremy-Desloovere" alt="visitors"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Audric-Moroz" alt="visitors"></p>
